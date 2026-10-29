@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Estacionamento",
+    "slug": "estacionamento",
+    "scheme": "estacionamento",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": false }
+  }
+}
